@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/WikiCrack/static/css/main.e6c13ad2.css",
+    "main.js": "/WikiCrack/static/js/main.83199184.js",
+    "static/js/453.ec3d9483.chunk.js": "/WikiCrack/static/js/453.ec3d9483.chunk.js",
+    "index.html": "/WikiCrack/index.html",
+    "main.e6c13ad2.css.map": "/WikiCrack/static/css/main.e6c13ad2.css.map",
+    "main.83199184.js.map": "/WikiCrack/static/js/main.83199184.js.map",
+    "453.ec3d9483.chunk.js.map": "/WikiCrack/static/js/453.ec3d9483.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.83199184.js"
+  ]
+}
